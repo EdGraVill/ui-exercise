@@ -1,0 +1,80 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(ProductSans-Black.ttf);
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(ProductSans-BlackItalic.ttf);
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(ProductSans-Bold.ttf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(ProductSans-BoldItalic.ttf);
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(ProductSans-Italic.ttf);
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(ProductSans-Light.ttf);
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(ProductSans-LightItalic.ttf);
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(ProductSans-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(./ProductSans-MediumItalic.ttf);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(./ProductSans-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(./ProductSans-Thin.ttf);
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: url(./ProductSans-ThinItalic.ttf);
+  font-style: italic;
+  font-weight: 200;
+}
