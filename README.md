@@ -27,3 +27,13 @@ Please clone this repo and submit via Greenhouse. The submission should include:
   * All source files in a zip file
   * A link to a running version of the application
   * A README file with instructions on how to run the project locally
+
+## Run the project
+
+```bash
+yarn start
+
+# or
+
+npm start
+```

@@ -90,7 +90,7 @@ const LoginPage: React.FC = () => {
         <Typography className={classes.subtitle}>to continue to Gmail</Typography>
         <TextField
           className={classes.input}
-          id="outlined-basic"
+          id="email"
           label="Email"
           variant="outlined"
           value={email}
