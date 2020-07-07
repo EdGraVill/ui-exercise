@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ui-exercise/static/css/main.cc513d04.chunk.css",
-    "main.js": "/ui-exercise/static/js/main.172b8c20.chunk.js",
-    "main.js.map": "/ui-exercise/static/js/main.172b8c20.chunk.js.map",
-    "runtime-main.js": "/ui-exercise/static/js/runtime-main.8655381b.js",
-    "runtime-main.js.map": "/ui-exercise/static/js/runtime-main.8655381b.js.map",
-    "static/js/2.b710a7bc.chunk.js": "/ui-exercise/static/js/2.b710a7bc.chunk.js",
-    "static/js/2.b710a7bc.chunk.js.map": "/ui-exercise/static/js/2.b710a7bc.chunk.js.map",
-    "static/js/3.bf582213.chunk.js": "/ui-exercise/static/js/3.bf582213.chunk.js",
-    "static/js/3.bf582213.chunk.js.map": "/ui-exercise/static/js/3.bf582213.chunk.js.map",
+    "main.css": "/ui-exercise/static/css/main.ceefb446.chunk.css",
+    "main.js": "/ui-exercise/static/js/main.b4879223.chunk.js",
+    "main.js.map": "/ui-exercise/static/js/main.b4879223.chunk.js.map",
+    "runtime-main.js": "/ui-exercise/static/js/runtime-main.b135521a.js",
+    "runtime-main.js.map": "/ui-exercise/static/js/runtime-main.b135521a.js.map",
+    "static/js/2.51773a8f.chunk.js": "/ui-exercise/static/js/2.51773a8f.chunk.js",
+    "static/js/2.51773a8f.chunk.js.map": "/ui-exercise/static/js/2.51773a8f.chunk.js.map",
+    "static/js/3.970f7d8c.chunk.js": "/ui-exercise/static/js/3.970f7d8c.chunk.js",
+    "static/js/3.970f7d8c.chunk.js.map": "/ui-exercise/static/js/3.970f7d8c.chunk.js.map",
     "index.html": "/ui-exercise/index.html",
-    "precache-manifest.8bd71f2bb146664eeee93eda8a319211.js": "/ui-exercise/precache-manifest.8bd71f2bb146664eeee93eda8a319211.js",
+    "precache-manifest.88e90c3e13a5c542e62924fbdb6ab658.js": "/ui-exercise/precache-manifest.88e90c3e13a5c542e62924fbdb6ab658.js",
     "service-worker.js": "/ui-exercise/service-worker.js",
-    "static/css/main.cc513d04.chunk.css.map": "/ui-exercise/static/css/main.cc513d04.chunk.css.map",
-    "static/js/2.b710a7bc.chunk.js.LICENSE.txt": "/ui-exercise/static/js/2.b710a7bc.chunk.js.LICENSE.txt",
+    "static/css/main.ceefb446.chunk.css.map": "/ui-exercise/static/css/main.ceefb446.chunk.css.map",
+    "static/js/2.51773a8f.chunk.js.LICENSE.txt": "/ui-exercise/static/js/2.51773a8f.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/ui-exercise/static/media/ProductSans-ThinItalic.4b3b9e82.ttf",
-    "static/media/googleLogo.svg": "/ui-exercise/static/media/googleLogo.95be05e4.svg"
+    "static/media/googleLogo.svg": "/ui-exercise/static/media/googleLogo.6f6f3f0e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8655381b.js",
-    "static/js/2.b710a7bc.chunk.js",
-    "static/css/main.cc513d04.chunk.css",
-    "static/js/main.172b8c20.chunk.js"
+    "static/js/runtime-main.b135521a.js",
+    "static/js/2.51773a8f.chunk.js",
+    "static/css/main.ceefb446.chunk.css",
+    "static/js/main.b4879223.chunk.js"
   ]
 }
