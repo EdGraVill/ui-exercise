@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ui-exercise/static/css/main.cc513d04.chunk.css",
+    "main.js": "/ui-exercise/static/js/main.172b8c20.chunk.js",
+    "main.js.map": "/ui-exercise/static/js/main.172b8c20.chunk.js.map",
+    "runtime-main.js": "/ui-exercise/static/js/runtime-main.8655381b.js",
+    "runtime-main.js.map": "/ui-exercise/static/js/runtime-main.8655381b.js.map",
+    "static/js/2.b710a7bc.chunk.js": "/ui-exercise/static/js/2.b710a7bc.chunk.js",
+    "static/js/2.b710a7bc.chunk.js.map": "/ui-exercise/static/js/2.b710a7bc.chunk.js.map",
+    "static/js/3.bf582213.chunk.js": "/ui-exercise/static/js/3.bf582213.chunk.js",
+    "static/js/3.bf582213.chunk.js.map": "/ui-exercise/static/js/3.bf582213.chunk.js.map",
+    "index.html": "/ui-exercise/index.html",
+    "precache-manifest.88c976a5f3632e55cb55e56e89d50586.js": "/ui-exercise/precache-manifest.88c976a5f3632e55cb55e56e89d50586.js",
+    "service-worker.js": "/ui-exercise/service-worker.js",
+    "static/css/main.cc513d04.chunk.css.map": "/ui-exercise/static/css/main.cc513d04.chunk.css.map",
+    "static/js/2.b710a7bc.chunk.js.LICENSE.txt": "/ui-exercise/static/js/2.b710a7bc.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/ui-exercise/static/media/ProductSans-ThinItalic.4b3b9e82.ttf",
+    "static/media/googleLogo.svg": "/ui-exercise/static/media/googleLogo.95be05e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8655381b.js",
+    "static/js/2.b710a7bc.chunk.js",
+    "static/css/main.cc513d04.chunk.css",
+    "static/js/main.172b8c20.chunk.js"
+  ]
+}
