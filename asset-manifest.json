@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/ui-exercise/static/css/main.ceefb446.chunk.css",
-    "main.js": "/ui-exercise/static/js/main.b4879223.chunk.js",
-    "main.js.map": "/ui-exercise/static/js/main.b4879223.chunk.js.map",
-    "runtime-main.js": "/ui-exercise/static/js/runtime-main.b135521a.js",
-    "runtime-main.js.map": "/ui-exercise/static/js/runtime-main.b135521a.js.map",
-    "static/js/2.51773a8f.chunk.js": "/ui-exercise/static/js/2.51773a8f.chunk.js",
-    "static/js/2.51773a8f.chunk.js.map": "/ui-exercise/static/js/2.51773a8f.chunk.js.map",
-    "static/js/3.970f7d8c.chunk.js": "/ui-exercise/static/js/3.970f7d8c.chunk.js",
-    "static/js/3.970f7d8c.chunk.js.map": "/ui-exercise/static/js/3.970f7d8c.chunk.js.map",
+    "main.js": "/ui-exercise/static/js/main.0a8ec92f.chunk.js",
+    "main.js.map": "/ui-exercise/static/js/main.0a8ec92f.chunk.js.map",
+    "runtime-main.js": "/ui-exercise/static/js/runtime-main.36a9c0fe.js",
+    "runtime-main.js.map": "/ui-exercise/static/js/runtime-main.36a9c0fe.js.map",
+    "static/js/2.724f88c4.chunk.js": "/ui-exercise/static/js/2.724f88c4.chunk.js",
+    "static/js/2.724f88c4.chunk.js.map": "/ui-exercise/static/js/2.724f88c4.chunk.js.map",
+    "static/js/3.c82e1e4a.chunk.js": "/ui-exercise/static/js/3.c82e1e4a.chunk.js",
+    "static/js/3.c82e1e4a.chunk.js.map": "/ui-exercise/static/js/3.c82e1e4a.chunk.js.map",
     "index.html": "/ui-exercise/index.html",
-    "precache-manifest.88e90c3e13a5c542e62924fbdb6ab658.js": "/ui-exercise/precache-manifest.88e90c3e13a5c542e62924fbdb6ab658.js",
+    "precache-manifest.d18244aea0e75721d2198ed0413ddc3f.js": "/ui-exercise/precache-manifest.d18244aea0e75721d2198ed0413ddc3f.js",
     "service-worker.js": "/ui-exercise/service-worker.js",
     "static/css/main.ceefb446.chunk.css.map": "/ui-exercise/static/css/main.ceefb446.chunk.css.map",
-    "static/js/2.51773a8f.chunk.js.LICENSE.txt": "/ui-exercise/static/js/2.51773a8f.chunk.js.LICENSE.txt",
+    "static/js/2.724f88c4.chunk.js.LICENSE.txt": "/ui-exercise/static/js/2.724f88c4.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/ui-exercise/static/media/ProductSans-ThinItalic.4b3b9e82.ttf",
     "static/media/googleLogo.svg": "/ui-exercise/static/media/googleLogo.6f6f3f0e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b135521a.js",
-    "static/js/2.51773a8f.chunk.js",
+    "static/js/runtime-main.36a9c0fe.js",
+    "static/js/2.724f88c4.chunk.js",
     "static/css/main.ceefb446.chunk.css",
-    "static/js/main.b4879223.chunk.js"
+    "static/js/main.0a8ec92f.chunk.js"
   ]
 }
