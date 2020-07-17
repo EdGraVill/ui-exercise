@@ -147,7 +147,7 @@ const Navbar: React.FC = () => {
 
   return (
     <Container isOpened={isOpened}>
-      {pathname === '/ui-exercise' && <Redirect to="/" />}
+      {pathname.includes('ui-exercise') && <Redirect to="/" />}
       <Header>
         <IconButton className={classes.button} onClick={switchNavbar}>
           <MenuIcon />
