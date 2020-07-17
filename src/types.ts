@@ -13,4 +13,7 @@ export interface Mail {
   body: string;
   tags: string[],
   date: string;
+  isReaded: boolean;
+  isDeleted: boolean;
+  isFavorite: boolean;
 }

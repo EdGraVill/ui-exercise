@@ -4,11 +4,14 @@ import { useSwitch } from '../util';
 import { IconButton, makeStyles, InputBase, fade, Avatar as MaterialAvatar, Button } from '@material-ui/core';
 import MenuIcon from '@material-ui/icons/Menu';
 import SearchIcon from '@material-ui/icons/Search';
+import DeleteIcon from '@material-ui/icons/Delete';
+import StarIcon from '@material-ui/icons/Star';
+import LabelImportantIcon from '@material-ui/icons/LabelImportant';
 import { useSelector, useDispatch } from 'react-redux';
 import { userInfoSelector, authActions } from '../Auth';
 import InboxIcon from '@material-ui/icons/Inbox';
 import { mailsTagsSelector } from '../Mail/selectors';
-import { useHistory, useLocation } from 'react-router-dom';
+import { useHistory, useLocation, Redirect } from 'react-router-dom';
 
 const Container = styled.div<{ isOpened: boolean }>`
   ${({ isOpened }) => css`
@@ -142,10 +145,9 @@ const Navbar: React.FC = () => {
     return null;
   }
 
-  console.log(pathname);
-
   return (
     <Container isOpened={isOpened}>
+      {pathname === '/ui-exercise' && <Redirect to="/" />}
       <Header>
         <IconButton className={classes.button} onClick={switchNavbar}>
           <MenuIcon />
@@ -184,6 +186,16 @@ const Navbar: React.FC = () => {
         >
           Inbox
         </Button>
+        <Button
+          color="default"
+          classes={{ root: classes.link, label: classes.linkText }}
+          className={pathname === '/starred' ? 'active' : ''}
+          onClick={goTo('/starred')}
+          startIcon={<StarIcon className={classes.linkIcon} />}
+          variant="text"
+        >
+          Starred
+        </Button>
         {tags.map(tag => (
           <Button
             color="default"
@@ -191,12 +203,22 @@ const Navbar: React.FC = () => {
             className={pathname === `/tags/${tag}` ? 'active' : ''}
             key={tag}
             onClick={goTo(`/tags/${tag}`)}
-            startIcon={<InboxIcon className={classes.linkIcon} />}
+            startIcon={<LabelImportantIcon className={classes.linkIcon} />}
             variant="text"
           >
             {tag}
           </Button>
         ))}
+        <Button
+          color="default"
+          classes={{ root: classes.link, label: classes.linkText }}
+          className={pathname === '/trash' ? 'active' : ''}
+          onClick={goTo('/trash')}
+          startIcon={<DeleteIcon className={classes.linkIcon} />}
+          variant="text"
+        >
+          Trash
+        </Button>
       </Links>
     </Container>
   );
